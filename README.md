@@ -19,8 +19,8 @@ A clean, responsive personal portfolio website built using HTML, CSS, and JavaSc
 
 ## Project Structure
 
-├── index.html- Main HTML layout
-├── style.css- All site styling
-├── script.js- Scroll & hover effects
-└── README.md- Project documentation
+1) index.html- Main HTML layout
+2) style.css- All site styling
+3) script.js- Scroll & hover effects
+4) README.md- Project documentation
 
