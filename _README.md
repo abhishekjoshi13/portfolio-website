@@ -1,7 +1,7 @@
 # portfolio-website
 ## Personal Portfolio Website – Abhishek Joshi
 
-A clean, responsive personal portfolio website built using HTML, CSS, and JavaScript. Designed to showcase my skills, projects, and contact information in a mobile-friendly format.
+A clean,and clear personal portfolio website built using HTML, CSS, and JavaScript which is designed to showcase my skills, projects, and contact information in a mobile-friendly format.
 
 ## Features
 
